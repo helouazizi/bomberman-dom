@@ -1,6 +1,6 @@
 # 💣 Bomberman DOM – Multiplayer Edition
 
-A **multiplayer Bomberman-style game** built entirely using my own **custom mini-framework** (without Canvas or WebGL).  
+A **multiplayer Bomberman-style game** built entirely using our own **custom mini-framework** (without Canvas or WebGL).  
 This project focuses on performance, real-time synchronization, and multiplayer gameplay using **WebSockets**.
 
 ---
@@ -130,15 +130,7 @@ This project helped me gain deep understanding of:
 - Improve **UI design** with custom skins  
 - Implement **leaderboards** and **match history**
 
----
 
-## 👨‍💻 Author
-
-**Developed by:** [Your Name]  
-🎓 Zone01 Oujda  
-💬 Contact: [Your Email or Portfolio Link]  
-
----
 
 
 ---
@@ -154,6 +146,19 @@ This project helped me gain deep understanding of:
 ---
 
 ## 🕹️ “The last one standing wins!”
+
+---
+
+## 👨‍💻 Developers Team
+
+This project was proudly developed by a team of passionate developers from **Zone01 Oujda** 🎓
+| 🧑‍💻 **[Hassan El ouazizi]** | [[Portfolio or Email](https://github.com/helouazizi)] 
+| 👨‍💻 **[Ismail Hajji]**      | [[Portfolio or Email](https://github.com/hajji-Ismail)] 
+| 👩‍💻 **[Youssef El asri ]**  | [Portfolio or Email](https://github.com/yelasri07)] 
+| 👩‍💻 **[Ismail Sayan]**      | [[Portfolio or Email](https://github.com/ismailsayen)] 
+
+🎯 **Organization:** Zone01 Oujda  
+---
 
 💣 Have fun playing, building, and learning from the **Bomberman DOM Multiplayer** project!
 
