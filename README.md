@@ -152,10 +152,10 @@ This project helped me gain deep understanding of:
 ## 👨‍💻 Developers Team
 
 This project was proudly developed by a team of passionate developers from **Zone01 Oujda** 🎓 <br>
-| 🧑‍💻 **[Hassan El ouazizi]** | [[Portfolio or Email](https://github.com/helouazizi)]  <br>
-| 👨‍💻 **[Ismail Hajji]**      | [[Portfolio or Email](https://github.com/hajji-Ismail)]  <br>
-| 👩‍💻 **[Youssef El asri ]**  | [Portfolio or Email](https://github.com/yelasri07)] 
-| 👩‍💻 **[Ismail Sayan]**      | [[Portfolio or Email](https://github.com/ismailsayen)]  <br>
+| 🧑‍💻 **[Hassan El ouazizi]** | [[Github ](https://github.com/helouazizi)]  <br>
+| 👨‍💻 **[Ismail Hajji]**      | [[Github](https://github.com/hajji-Ismail)]  <br>
+| 👩‍💻 **[Youssef El asri ]**  | [Github](https://github.com/yelasri07)]  <br>
+| 👩‍💻 **[Ismail Sayan]**      | [[Github](https://github.com/ismailsayen)]  <br>
 
 🎯 **Organization:** Zone01 Oujda  
 ---
